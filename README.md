@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.lets-code.co.in/u/sailikith/](https://www.lets-code.co.in/u/sailikith/)
+- 👨‍💻 All of my projects are available at [datascienceportfol.io/gundetisailikith](datascienceportfol.io/gundetisailikith)
 
 - 💬 Ask me about **Data Cleaning, Data visualising**
 
